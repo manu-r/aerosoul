@@ -3,4 +3,16 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperatureValue">0</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidityValue">0</string>
+    <string name="airPollutionIndex">Air Pollution Index</string>
+    <string name="apiValue">0</string>
+    <string name="atmosphericData">How\'s it Looking</string>
+    <string name="symptoms">Known Symptoms</string>
+    <string name="analysis">Analysis</string>
+    <string name="noAnalysisData">No analysis data found.</string>
+    <string name="selectRating">Select Rating</string>
+    <string name="trendAnalysis">Show Trend Analysis</string>
 </resources>

@@ -5,4 +5,10 @@
     <dimen name="controlMarginVertical">20dp</dimen>
     <dimen name="editTextHeight">60dp</dimen>
     <dimen name="appname_margin_horizontal">50dp</dimen>
+    <dimen name="rowHeight">50dp</dimen>
+    <dimen name="headingSize">10pt</dimen>
+    <dimen name="iconSmall">5dp</dimen>
+    <dimen name="controlMarginHorizontal">20dp</dimen>
+    <dimen name="defaultTextSize">8pt</dimen>
+    <dimen name="listMarginBottom">30dp</dimen>
 </resources>
